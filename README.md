@@ -94,6 +94,9 @@ Każdy przycisk:
 | Stacja 2 (np. 105.6 FM)| 4           |
 | Stacja 3 (np. 91.0 FM) | 5           |
 
+
+![Schemat podłączenia](schemat_1.0.0.png)
+
 ---
 
 ## 💾 Kod
