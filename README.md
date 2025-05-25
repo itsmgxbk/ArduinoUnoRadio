@@ -95,7 +95,7 @@ Każdy przycisk:
 | Stacja 3 (np. 91.0 FM) | 5           |
 
 
-![Schemat podłączenia](schemat_1.0.0.png)
+
 
 ---
 
